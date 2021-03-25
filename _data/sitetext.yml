@@ -33,24 +33,24 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Our Team"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Started in 2016, WE Design is a University of Manitoba, student-operated organization comprised of undergraduate and graduate students from mechanical, electrical, civil, computer, and biosystems engineering. We aim to promote green energy, by providing an opportunity for our students to develop professional skills in the designing, manufacturing, and project management of our small-scale wind turbine."
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
+      - title: "Mechanical Division"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Building and designing most of the physical components of the wind turbine fall under projects in the Mechanical Division. These projects include the rotor blades, the frame and tower, the drivetrain, and rotor system projects, such as pitch mechanism and operating systems."
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
+      - title: "Electrical Division"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
+      - title: "Competition"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "The International Small Wind Turbine Contest (ISWTC) takes place yearly at the Hanze University of Applied Sciences in Groningen, Netherlands. This is where, after successfully completing our second prototype, we took it in July of 2019. Being the only North American team to compete on this international stage, we seek to continually improve our design and hone our skills for a better team and for a better world."
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
