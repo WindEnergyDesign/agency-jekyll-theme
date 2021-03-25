@@ -21,8 +21,8 @@ services:
 
 projects:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    text: "Take a look at what we are working on."
+    section: project
     closebutton: "Close Project"
     
 
